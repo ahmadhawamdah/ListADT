@@ -1,7 +1,5 @@
 /**********************************
 //
-//	Beagan Nguy
-//	PA2
 //	Lex.c
 //	Arranges input text in alphabetical order
 //
